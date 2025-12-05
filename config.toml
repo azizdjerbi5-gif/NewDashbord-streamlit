@@ -1,0 +1,14 @@
+[theme]
+base = "dark"
+primaryColor = "#DE5092"              # turquoise néon
+backgroundColor = "#50005C"          # bleu nuit quasi noir
+secondaryBackgroundColor = "#111827" # cartes / widgets
+textColor = "#F9FAFB"                # blanc cassé
+font = "sans serif"
+
+[theme.sidebar]
+backgroundColor = "#020617"
+secondaryBackgroundColor = "#0F172A"
+primaryColor = "#F97316"             # orange néon pour la sidebar
+textColor = "#E5E7EB"
+showWidgetBorder = true
